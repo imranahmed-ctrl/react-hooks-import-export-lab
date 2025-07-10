@@ -7,6 +7,11 @@ function NavBar() {
     </nav>
   );
 }
+function App() {
+  return (
+    <>
+    </>
+  );
+}
 
-
-export default App();
+export default App;

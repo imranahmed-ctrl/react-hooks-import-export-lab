@@ -10,5 +10,11 @@ function Home() {
     </div>
   );
 }
+function App() {
+  return (
+    <>
+    </>
+  );
+}
 
-export default App();
+export default App;
